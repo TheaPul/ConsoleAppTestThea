@@ -10,6 +10,9 @@ namespace ConsoleAppTestThea
     {
         static void Main (string[] args)
         {
+            int input = Console.Read ();
+            Console.WriteLine (input);
+            Console.ReadLine ();
         }
     }
 }
